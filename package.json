@@ -1,0 +1,6 @@
+{
+  "name": "dataform_demo_repo",
+  "dependencies": {
+    "@dataform/core": "2.4.2"
+  }
+}
